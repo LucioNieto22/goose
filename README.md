@@ -1,5 +1,3 @@
 # goose
-OT senior capstone
-.classdiv1{
-    
-}
+Lucio OT senior capstone
+
